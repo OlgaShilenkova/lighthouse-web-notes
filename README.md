@@ -4,4 +4,9 @@
 
 This repository contains notes taken by [Olga](https://github.com/OlgaShilenkova) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
-### a paragraph
+# Table of Contents
+* [Week 1](/Week_1)
+  * [Day 1](/week_1/Day_1)
+
+
+ 
